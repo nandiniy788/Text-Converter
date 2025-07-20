@@ -9,11 +9,6 @@ This is a simple React project that allows users to convert text to:
 - Count words and characters
 - Clear text  
 
-## Features
-- Live text editing
-- Dark/light mode toggle
-- Instant conversion results
-
 ## How to Run
 1. Clone the repository
 2. Run `npm install`
